@@ -1,0 +1,22 @@
+html {
+    background-color: #1f2937;
+    font-family: Arial, Helvetica, sans-serif;
+}
+nav.container {
+    display: flex;
+    padding: 15px;
+    justify-content:space-around;
+}
+nav, img {
+    height:50px;
+}
+.links > li {
+    display:inline-flex;
+    padding:0 15px 0 15px;
+}
+
+a, a:hover, a:visited, a:active  {
+    text-decoration: none;
+    list-style-type: none;
+    color:#e5e7eb;
+}
