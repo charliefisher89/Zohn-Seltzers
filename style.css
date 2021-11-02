@@ -167,3 +167,13 @@ h4 {
 .info2 > button:hover {
     background-color: #2c69ca;
 }
+
+/* Style for footer */
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    color: rgb(216, 216, 216, .9);
+}
