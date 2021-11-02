@@ -107,3 +107,20 @@ h2 {
     color: #8c8d8f;
 
 }
+.quote {
+    background-color: #e5e7eb;
+    flex-wrap:wrap;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:30px;
+}
+em {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: lighter;
+    height: 100%;
+    width: 50%;
+    padding: 100px;
+}
